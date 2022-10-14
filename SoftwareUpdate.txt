@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
