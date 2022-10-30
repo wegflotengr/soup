@@ -1,1 +1,1 @@
-Add docs links to all dataset YAMLs (#7360)
+Update mkdocs.yml (#7693)
