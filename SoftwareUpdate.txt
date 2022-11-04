@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
