@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+fix predict with class filter
