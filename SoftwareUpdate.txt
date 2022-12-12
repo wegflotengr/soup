@@ -1,1 +1,1 @@
-fix val each epoch
+Move Explorer tests to scheduled CI (#8305)
