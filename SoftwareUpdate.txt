@@ -1,1 +1,1 @@
-fix predict with class filter
+Add PaddlePaddle Docs Integrations Page (#8858)
