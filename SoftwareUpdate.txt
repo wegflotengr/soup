@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
