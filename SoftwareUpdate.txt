@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+Update pyproject.toml and Docs (#7274)
