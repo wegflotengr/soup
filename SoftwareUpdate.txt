@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Add docstrings to new HUB functions (#7576)
