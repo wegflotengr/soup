@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
