@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
