@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
