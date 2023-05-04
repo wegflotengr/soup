@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Batch inference fixes (#8854)
