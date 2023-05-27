@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+ultralytics 8.1.2 scope HUB-SDK imports (#7596)
