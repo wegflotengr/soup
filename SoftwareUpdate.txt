@@ -1,1 +1,1 @@
-fix val each epoch
+Auto-format by https://ultralytics.com/actions
