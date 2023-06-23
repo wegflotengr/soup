@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
