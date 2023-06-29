@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
