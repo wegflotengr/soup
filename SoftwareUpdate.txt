@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Docs updates and improvements (#8183)
