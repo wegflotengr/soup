@@ -1,1 +1,1 @@
-Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
