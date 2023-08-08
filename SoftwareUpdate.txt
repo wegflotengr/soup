@@ -1,1 +1,1 @@
-ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
