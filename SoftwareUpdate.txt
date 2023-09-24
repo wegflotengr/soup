@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Docs partial mdformat improvements (#7378)
