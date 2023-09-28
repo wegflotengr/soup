@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Replace onnx2tf usage from CLI to Python (#8429)
