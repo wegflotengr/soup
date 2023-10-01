@@ -1,1 +1,1 @@
-Disable Tab Limit - Disables the default tab limit (varies giữa devices)
+Elaborate Train and Predict mode docs arguments (#8137)
