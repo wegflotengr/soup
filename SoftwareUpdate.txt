@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
