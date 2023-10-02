@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
