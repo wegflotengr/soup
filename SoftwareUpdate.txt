@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
