@@ -1,1 +1,1 @@
-fix resume training
+Fix OBB xywh-angle concatenation bug (#7404)
