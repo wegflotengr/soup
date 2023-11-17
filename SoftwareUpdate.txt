@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
