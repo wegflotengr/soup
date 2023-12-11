@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Remove unused variables (#8511)
