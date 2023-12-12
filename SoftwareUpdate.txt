@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
