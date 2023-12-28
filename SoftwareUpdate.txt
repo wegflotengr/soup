@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Model typehints Docker fix (#8306)
