@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Pass callbacks to validator (#7320)
