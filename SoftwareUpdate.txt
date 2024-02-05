@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
