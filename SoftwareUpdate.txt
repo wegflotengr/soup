@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Update pyproject.toml and Docs (#7274)
